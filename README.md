@@ -17,7 +17,9 @@ mucho dinero
 - 📫 How to reach me ...
 trabajo ganar + ganar = +
 - 😄 Pronouns: ...
+tener la cura a todas las enfermedades 
 cuantico 
+principalmente estar bien yo 
 - ⚡ Fun fact: ...
 OMG
 deseable 

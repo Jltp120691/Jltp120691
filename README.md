@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Jltp120691#
+poki exponencial, masivo 
 dominio mundial 
 - 👀 I’m interested in ...
 represalias-a los que hacen daño con mi término integridad humana 

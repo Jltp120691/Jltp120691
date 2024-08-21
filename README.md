@@ -18,6 +18,7 @@ trabajo ganar + ganar = +
 - 😄 Pronouns: ...
 cuantico 
 - ⚡ Fun fact: ...
+OMG
 deseable 
 saludable 
 

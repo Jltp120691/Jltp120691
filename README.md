@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Jltp120691#
+https://es.statista.com/estadisticas/700888/inventario-estimado-de-cabezas-nucleares-por-pais-del-mundo/
 dominio mundial 
 - 👀 I’m interested in ...
 represalias-a los que hacen daño con mi término integridad humana 

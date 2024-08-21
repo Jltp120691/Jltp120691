@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jltp120691
+- 👋 Hi, I’m @Jltp120691#
 dominio mundial 
 - 👀 I’m interested in ...
 estilo de vida demasiado caro 
@@ -9,8 +9,9 @@ mucho dinero
 idiomas 100%
 escuela 100%
 - 💞️ I’m looking to collaborate on ...
-estilo de vida demasiado caro 
-seleccion de mujeres 
+estilo de vida demasiado caro (contemporáneo).
+seleccion de mujeres atracción 
+
 lo mejor del mundo, universo , galaxias, mundos
 mucho dinero
 - 📫 How to reach me ...

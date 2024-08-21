@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Jltp120691#
 dominio mundial 
 - 👀 I’m interested in ...
+represalias-a los que hacen daño con mi término integridad humana 
 estilo de vida demasiado caro 
 seleccion de mujeres 
 lo mejor del mundo, universo , galaxias, mundos

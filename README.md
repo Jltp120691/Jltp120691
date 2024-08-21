@@ -8,6 +8,7 @@ seleccion de mujeres
 lo mejor del mundo, universo , galaxias, mundos
 mucho dinero
 - 🌱 I’m currently learning ...
+https://www.elconfidencial.com/alma-corazon-vida/2020-01-13/lugares-malditos-social-turismo-lugares-terror-467_2408903/
 idiomas 100%
 escuela 100%
 - 💞️ I’m looking to collaborate on ...

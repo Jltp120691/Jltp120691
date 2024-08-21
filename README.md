@@ -5,6 +5,11 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+dominio mundial 
+estilo de vida demasiado caro 
+seleccion de mujeres 
+lo mejor del mundo, universo , galaxias, mundos
+mucho dinero 
 
 <!---
 Jltp120691/Jltp120691 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

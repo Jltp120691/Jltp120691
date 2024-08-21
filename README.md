@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jltp120691#
+- 👋 Hi, I’m @Jorge luis tellez perez 
 poki exponencial, masivo 
 dominio mundial 
 - 👀 I’m interested in ...

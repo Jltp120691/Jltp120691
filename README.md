@@ -14,9 +14,12 @@ seleccion de mujeres
 lo mejor del mundo, universo , galaxias, mundos
 mucho dinero
 - 📫 How to reach me ...
+trabajo ganar + ganar = +
 - 😄 Pronouns: ...
 cuantico 
 - ⚡ Fun fact: ...
+deseable 
+saludable 
 
 
 <!---

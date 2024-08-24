@@ -15,7 +15,7 @@ estilo de vida demasiado caro (contemporáneo).
 seleccion de mujeres atracción 
 
 lo mejor del mundo, universo , galaxias, mundos
-mucho dinero
+mucho dinero, depuración de anexos 
 - 📫 How to reach me ...
 trabajo ganar + ganar = +
 - 😄 Pronouns: ...

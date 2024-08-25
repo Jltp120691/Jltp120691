@@ -1,4 +1,4 @@
-gerrero- 👋 Hi, I’m @Jorge luis tellez perez 
+IMG_0018//gerrero- 👋 Hi, I’m @Jorge luis tellez perez 
 [https://as.com/actualidad/politica/el-listado-de-ejercitos-mas-potentes-del-mundo-que-lugar-ocupan-iran-e-israel-n/?outputType=amp]
 (dominio mundial)
 - 👀 I’m interested in ...

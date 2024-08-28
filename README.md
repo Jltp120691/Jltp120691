@@ -8,6 +8,16 @@ seleccion de mujeres
 lo mejor del mundo, universo , galaxias, mundos
 mucho dinero
 - 🌱 I’m currently learning ...
+@book{MossesRichard2020LBDE,
+language = {spa ; eng},
+publisher = {Next Chapter},
+title = {La BГіveda De Enoc},
+year = {2020},
+abstract = {Despues de un gran avance en una investigacion, Alex McEwan encuentra la direccion de su antiguo amante, tallada en la carne de un asesino.Ella investigaba un libro sobre edificios masnicos escoceses, Kate Harlow, el amor perdido de McEwan, se ha involucrado con el ocultismo subterrneo y poderes ms all de su comprensin. El mentor de lo oculto de Kate tiene un plan tortuoso, y para l, Kate es solo una herramienta. Mientras tanto, otras figuras oscuras de la clandestinidad oculta de Escocia tienen su propia agenda.Alex y Kate corren contra el tiempo para evitar que los ngeles cados anuncien el Apocalipsis. Pero ya es demasiado tarde?},
+author = {Mosses, Richard and Javier Pintor Maldonado, Francisco},
+address = {Chicago},
+isbn = {1071577662},
+}
 idiomas 100%
 escuela 100%
 - 💞️ I’m looking to collaborate on ...

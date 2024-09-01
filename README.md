@@ -8,6 +8,7 @@ seleccion de mujeres
 lo mejor del mundo, universo , galaxias, mundos
 mucho dinero
 - 🌱 I’m currently learning ...
+divicion mundial
 @book{MossesRichard2020LBDE,
 language = {spa ; eng},
 publisher = {Next Chapter},

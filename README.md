@@ -21,8 +21,7 @@ isbn = {1071577662},
 idiomas 100%
 escuela 100%
 - 💞️ I’m looking to collaborate on ...
-estilo de vida demasiado caro (contemporáneo).
-seleccion de mujeres atracción 
+estabilizando salud
 
 lo mejor del mundo, universo , galaxias, mundos
 mucho dinero, depuración de anexos 

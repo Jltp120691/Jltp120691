@@ -7,8 +7,7 @@ estilo de vida demasiado caro
 seleccion de mujeres 
 lo mejor del mundo, universo , galaxias, mundos
 mucho dinero
-- 🌱 I’m currently learning ...
-divicion mundial
+- 🌱 I’m currently learning 
 @book{MossesRichard2020LBDE,
 language = {spa ; eng},
 publisher = {Next Chapter},

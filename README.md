@@ -1,3 +1,4 @@
+    https://www.facebook.com/abarrotera.mafivaz.ahorrasysurtesmas?mibextid=LQQJ4d
     https://www.facebook.com/judithesther.vazquez?mibextid=LQQJ4d
     https://cancilleria.gob.ar/es/iniciativas/dna/divulgacion/sobre-la-antartida
     NOMINA SEM 35 LFM

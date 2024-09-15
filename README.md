@@ -1,3 +1,4 @@
+
     RAM(ntp) procesador 
     PEB/-/43-/-48?
     ibericaind.com
@@ -19,6 +20,7 @@ seleccion de mujeres
 lo mejor del mundo, universo , galaxias, mundos
 mucho dinero
 - 🌱 I’m currently learning 
+rvillanuevab@televisa.com.mx
 @book{MossesRichard2020LBDE,
 language = {spa ; eng},
 publisher = {Next Chapter},

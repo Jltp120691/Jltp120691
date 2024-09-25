@@ -1,4 +1,6 @@
-    decomiso cristiano
+    iralo
+cowa famil    
+decomiso cristiano
 sin con beber te ofendo en la cruda me sales debiendo
 NYU-96-75
 https://www.facebook.com/guillermo.mejia.31924792?mibextid=LQQJ4d

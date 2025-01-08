@@ -17,7 +17,7 @@ En la estrategia tiene que procurarse que el esfuerzo se efectúe conminando o i
 
 Hay otra parte del arte militar que se halla de manera intrínseca engarzada con la estrategia, y nos referimos a la [[política]] de la [[guerra]], que delimita los casos en que ésta es forzosa o ineludible, la zona del teatro de operaciones que debe optarse para llevarla a cabo, y examinar o tantear la indagación de alianzas y neutralidades, y tratar de arrebatárselas al enemigo, y continua desplegando un papel significativo durante la contienda pues procura conservar las alianzas o romper las que haya contraído el enemigo, interviniendo en los [[armisticio]]s, fijando las condiciones en que ambos beligerantes deben subordinarse, y prepara y discute los tratados de [[paz]] a fin de sacar el mayor provecho de la victoria o atenuar las consecuencias de la derrota.
 
-
+    destruccion de aplicativos
 
 :''La '''estrategia''' determina el lugar donde debe emplearse la fuerza militar en el combate, el tiempo en que esta será utilizada y la magnitud que tendrá que adquirir. Esa triple determinación asume una influencia fundamental en el resultado del encuentro''<ref> ''De la guerra'', Escuela de Guerra Naval, 1945, por [[Carl von Clausewitz]]</ref>
 	

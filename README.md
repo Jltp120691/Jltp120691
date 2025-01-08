@@ -1,7 +1,23 @@
-a100252529@my.uvm.edu.mx
-	100499952   
-               ⟩ helio 
-	chedrau17572
-IND3652485
+{{Problemas artículo|copyedit|discutido|t=20160714191050 }}
+[[Archivo:Waterloo campaign map.png|thumb|300px|Mapa donde se muestra el planteamiento estratégico de 
+esta la campaña de [[Batalla de Waterloo|Waterloo]]]]
+La '''estrategia militar''' (estrategia, del [[idioma griego|griego]] ''stratigos'' o ''strategos'', στρατηγός, pl. στρατηγοί; en [[dórico (dialecto)|griego dórico]]: στραταγός, ''stratagos''; literalmente significa: «jefe del [[ejército]]») es el planteamiento general utilizado por las organizaciones militares para intentar alcanzar los objetivos fijados.<ref>Gartner, pp. 163. </ref>
 
-BCE ECB EŪG EZB EKP EKT EKB BĆE EBC
+La estrategia militar se ocupa del planeamiento y dirección de las campañas bélicas, así como del movimiento y disposición estratégica de las fuerzas armadas. El padre de la estrategia militar moderna, [[Carl von Clausewitz]], la definía como "el empleo de las batallas para conseguir el fin de la guerra".<ref>[http://www.clausewitz.com/readings/Bassford/Cworks/Works.htm Bassford, Christopher (2002). «Clausewitz and his Works». Consultado el 25 de mayo de 2010.]</ref> De esta manera, daba prioridad a los objetivos políticos sobre los objetivos militares, apoyando el control civil sobre los asuntos militares.
+
+«El general (''strategos'') debe estar seguro de poder explotar la situación en su provecho, según lo exijan las circunstancias. No está vinculado a procedimientos determinados.» Capítulo VIII versículo 9 de [[El arte de la guerra]] de [[Sun Tzu]].
+
+En las guerras convencionales tiene por objeto dirigir las tropas en el teatro de operaciones hasta llevarlas al [[campo de batalla]]. Es una de las tres facetas del arte de la guerra, las otras dos serían la [[táctica militar]], que consiste en la correcta ejecución de los planes militares y las maniobras de las fuerzas de combate en la batalla. El tercer componente sería la [[logística militar]], destinada a mantener el ejército y asegurar su disponibilidad y capacidad combativa.
+
+La estrategia es la esencia misma del arte de la guerra, es una pauta que guía a la brutalidad por los arduos caminos que conducen a los éxitos concluyentes, la luz que alumbra las obscuridades del teatro de operaciones, velada siempre por la duda perenne de lo que pretende, de lo que intenta, de lo que hace el enemigo, y de los medios que posee para verificarlos, y la estrategia resulta tanto más complicada cuando más complicados son los medios de guerra, y es preciso lograr como principal propósito la ruina de la fuerza enemiga, y el modo de alcanzar dicho empeño entra en los dominios de la [[táctica]], y pertenece al [[estado mayor]] la ciencia de la táctica sublime.
+
+La táctica es el conjunto de reglas a que se ajustan en su ejecución las operaciones militares, y la concepción de un [[plan]] es el objeto de la estrategia,  y el empleo de las tropas ventajosamente ante el adversario ya en la ofensiva ya en la defensiva es el objeto de la táctica, y lo difícil es concebir claramente esta, ya que si han de ser un conjunto reglas es para constituir un cuerpo de [[doctrina]], pero lo cierto es que no hay reglas para vencer y es imposible considerar la táctica como un método positivo para alcanzar el fin que se propone, y solo es posible para muchos constituir la táctica como reunión de diversas reglas y elementos que la realidad del combate utiliza de ''mil modos diferentes'', y quizá sin adecuarse a la pauta formulada por la [[teoría]].
+
+En la estrategia tiene que procurarse que el esfuerzo se efectúe conminando o intimidando en lo posible las comunicaciones del enemigo, sin exponer las propias, y se da el nombre de [[combinación|combinaciones]] estratégicas al conjunto de movimientos que debe ejecutar el ejército para lograr el objetivo propuesto, subordinadas al carácter que tenga la guerra, que pueden ser ofensivas, defensivas o mixtas.
+
+Hay otra parte del arte militar que se halla de manera intrínseca engarzada con la estrategia, y nos referimos a la [[política]] de la [[guerra]], que delimita los casos en que ésta es forzosa o ineludible, la zona del teatro de operaciones que debe optarse para llevarla a cabo, y examinar o tantear la indagación de alianzas y neutralidades, y tratar de arrebatárselas al enemigo, y continua desplegando un papel significativo durante la contienda pues procura conservar las alianzas o romper las que haya contraído el enemigo, interviniendo en los [[armisticio]]s, fijando las condiciones en que ambos beligerantes deben subordinarse, y prepara y discute los tratados de [[paz]] a fin de sacar el mayor provecho de la victoria o atenuar las consecuencias de la derrota.
+
+
+
+:''La '''estrategia''' determina el lugar donde debe emplearse la fuerza militar en el combate, el tiempo en que esta será utilizada y la magnitud que tendrá que adquirir. Esa triple determinación asume una influencia fundamental en el resultado del encuentro''<ref> ''De la guerra'', Escuela de Guerra Naval, 1945, por [[Carl von Clausewitz]]</ref>
+	

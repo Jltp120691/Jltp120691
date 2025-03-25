@@ -1,23 +1,38 @@
-{{Problemas artículo|copyedit|discutido|t=20160714191050 }}
-[[Archivo:Waterloo campaign map.png|thumb|300px|Mapa donde se muestra el planteamiento estratégico de 
-esta la campaña de [[Batalla de Waterloo|Waterloo]]]]
-La '''estrategia militar''' (estrategia, del [[idioma griego|griego]] ''stratigos'' o ''strategos'', στρατηγός, pl. στρατηγοί; en [[dórico (dialecto)|griego dórico]]: στραταγός, ''stratagos''; literalmente significa: «jefe del [[ejército]]») es el planteamiento general utilizado por las organizaciones militares para intentar alcanzar los objetivos fijados.<ref>Gartner, pp. 163. </ref>
-
-La estrategia militar se ocupa del planeamiento y dirección de las campañas bélicas, así como del movimiento y disposición estratégica de las fuerzas armadas. El padre de la estrategia militar moderna, [[Carl von Clausewitz]], la definía como "el empleo de las batallas para conseguir el fin de la guerra".<ref>[http://www.clausewitz.com/readings/Bassford/Cworks/Works.htm Bassford, Christopher (2002). «Clausewitz and his Works». Consultado el 25 de mayo de 2010.]</ref> De esta manera, daba prioridad a los objetivos políticos sobre los objetivos militares, apoyando el control civil sobre los asuntos militares.
-
-«El general (''strategos'') debe estar seguro de poder explotar la situación en su provecho, según lo exijan las circunstancias. No está vinculado a procedimientos determinados.» Capítulo VIII versículo 9 de [[El arte de la guerra]] de [[Sun Tzu]].
-
-En las guerras convencionales tiene por objeto dirigir las tropas en el teatro de operaciones hasta llevarlas al [[campo de batalla]]. Es una de las tres facetas del arte de la guerra, las otras dos serían la [[táctica militar]], que consiste en la correcta ejecución de los planes militares y las maniobras de las fuerzas de combate en la batalla. El tercer componente sería la [[logística militar]], destinada a mantener el ejército y asegurar su disponibilidad y capacidad combativa.
-
-La estrategia es la esencia misma del arte de la guerra, es una pauta que guía a la brutalidad por los arduos caminos que conducen a los éxitos concluyentes, la luz que alumbra las obscuridades del teatro de operaciones, velada siempre por la duda perenne de lo que pretende, de lo que intenta, de lo que hace el enemigo, y de los medios que posee para verificarlos, y la estrategia resulta tanto más complicada cuando más complicados son los medios de guerra, y es preciso lograr como principal propósito la ruina de la fuerza enemiga, y el modo de alcanzar dicho empeño entra en los dominios de la [[táctica]], y pertenece al [[estado mayor]] la ciencia de la táctica sublime.
-
-La táctica es el conjunto de reglas a que se ajustan en su ejecución las operaciones militares, y la concepción de un [[plan]] es el objeto de la estrategia,  y el empleo de las tropas ventajosamente ante el adversario ya en la ofensiva ya en la defensiva es el objeto de la táctica, y lo difícil es concebir claramente esta, ya que si han de ser un conjunto reglas es para constituir un cuerpo de [[doctrina]], pero lo cierto es que no hay reglas para vencer y es imposible considerar la táctica como un método positivo para alcanzar el fin que se propone, y solo es posible para muchos constituir la táctica como reunión de diversas reglas y elementos que la realidad del combate utiliza de ''mil modos diferentes'', y quizá sin adecuarse a la pauta formulada por la [[teoría]].
-
-En la estrategia tiene que procurarse que el esfuerzo se efectúe conminando o intimidando en lo posible las comunicaciones del enemigo, sin exponer las propias, y se da el nombre de [[combinación|combinaciones]] estratégicas al conjunto de movimientos que debe ejecutar el ejército para lograr el objetivo propuesto, subordinadas al carácter que tenga la guerra, que pueden ser ofensivas, defensivas o mixtas.
-
-Hay otra parte del arte militar que se halla de manera intrínseca engarzada con la estrategia, y nos referimos a la [[política]] de la [[guerra]], que delimita los casos en que ésta es forzosa o ineludible, la zona del teatro de operaciones que debe optarse para llevarla a cabo, y examinar o tantear la indagación de alianzas y neutralidades, y tratar de arrebatárselas al enemigo, y continua desplegando un papel significativo durante la contienda pues procura conservar las alianzas o romper las que haya contraído el enemigo, interviniendo en los [[armisticio]]s, fijando las condiciones en que ambos beligerantes deben subordinarse, y prepara y discute los tratados de [[paz]] a fin de sacar el mayor provecho de la victoria o atenuar las consecuencias de la derrota.
-
-    destruccion de aplicativos
-
-:''La '''estrategia''' determina el lugar donde debe emplearse la fuerza militar en el combate, el tiempo en que esta será utilizada y la magnitud que tendrá que adquirir. Esa triple determinación asume una influencia fundamental en el resultado del encuentro''<ref> ''De la guerra'', Escuela de Guerra Naval, 1945, por [[Carl von Clausewitz]]</ref>
-	
+    Esta página puede ser utilizada por los bibliotecarios para otorgar o retirar los permisos de reversor, verificador, autoverificado, exento de bloqueo a IP, bot, pseudobot, administrador de interfaz y administrador de filtros, y otorgar los permisos de bibliotecario y burócrata.
+Los burócratas locales no tienen las facultades técnicas para retirar los permisos de otro bibliotecario/burócrata ni añadir otros permisos como checkuser o supresor. Ello tendrá que ser solicitado en Steward requests/Permissions en Meta-Wiki.
+Para ver los cambios de perfil de usuario recientes ve al registro.
+Instrucciones para convertir a un usuario en bibliotecario
+Cierra la candidatura tal y como se explica en las instrucciones.
+Teclea el nombre de usuario en la caja superior (sin el prefijo Usuario: delante) y haz clic en «Modificar grupos de usuarios».
+Marca las casillas de «bibliotecario» y «burócrata», y desmarca, si corresponde, las de los grupos cuyos permisos ya están incluidos en los ahora asignados: «reversor», «autoverificado», «verificador» o «administrador de filtros».
+En el campo «motivo» añade un enlace a la votación tipo: [[Wikipedia:Candidaturas a bibliotecario/XXX]].
+Pincha en «Guardar grupos del usuario». El cambio surtirá efecto inmediato.
+Actualiza Wikipedia:Bibliotecarios añadiendo el nombre de usuario del nuevo bibliotecario.
+Añade {{subst:Bienvenido biblio}} ~~~~ en la página de discusión del recién electo.
+Administradores de interfaz y administradores de filtros
+Las políticas se encuentran en Wikipedia:Administradores de interfaz y Wikipedia:Administradores de filtros. Asegúrate de haber verificado previamente la existencia de consenso para el nombramiento.
+Teclea el nombre de usuario en la caja superior (sin el prefijo Usuario: delante) y haz clic en «Modificar grupos de usuarios».
+Marca la casilla de «administrador de interfaz» o «administrador de filtros», según corresponda.
+En el campo «motivo» añade un enlace a la resolución de la solicitud del usuario interesado en el tablón de permisos.
+Pincha en «Guardar grupos del usuario». El cambio surtirá efecto inmediato.
+Añade {{subst:Administrador de interfaz otorgado}} ~~~~ o {{subst:Administrador de filtros otorgado}} ~~~~ en la página de discusión del recién electo, según corresponda.
+Reversores, verificadores y autoverificados.
+Reversores
+La política se encuentra en Wikipedia:Reversores. No entregues este permiso a nadie que no tenga experiencia en cambios recientes.
+Recuerda añadir {{subst:Reversor otorgado}} ~~~~ en la página de discusión del nuevo reversor.
+Verificadores y autoverificados
+La política se encuentra en Wikipedia:Verificadores. Asegúrate que cumple los requisitos antes de otorgar el permiso.
+Un usuario con permiso de verificador no necesita el permiso de autoverificado. Son redundantes. Si entregas a alguien el permiso de verificador, retírale el de autoverificado.
+Recuerda añadir {{subst:Verificador otorgado}} ~~~~ en la página de discusión del nuevo verificador y {{subst:Autoverificado otorgado}} ~~~~ en la página de discusión del nuevo usuario autoverificado.
+Instrucciones para otorgar el permiso de bot
+La política se encuentra en Wikipedia:Política de bots.
+Mueve la votación al final del archivo, e introduce el resultado en la plantilla de la votación.
+Teclea el nombre de usuario (sin el prefijo Usuario: delante) y pincha en «Modificar grupos de usuarios».
+Marca la casilla bot. En el campo «motivo» añade un enlace como este a la votación archivada:
+[[Wikipedia:Bot/Autorizaciones/Archivo/2025#Nombre de la sección|Autorizado]]
+Actualiza la tabla de autorizaciones y el número de solicitudes apropiadamente.
+Incluye al nuevo bot en la plantilla de controladores de bots, si aún no está.
+Avisa al controlador de que su solicitud ha sido aprobada e invítale a colocar la plantilla {{Ficha de bot}} en la página de usuario de su bot y a tener presente la política ya citada.
+Sobre la exención de bloqueo a IP
+No entregues este permiso a nadie sin consultar previamente con un checkuser. Este permiso permite editar a un usuario aunque su dirección IP o rango esté completamente bloqueado. Lee Wikipedia:Exento de bloqueo a IP para más información.
+No te olvides de retirar el permiso de las cuentas afectadas una vez que ya no sea necesario.
